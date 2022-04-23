@@ -90,6 +90,7 @@ int main()
     InRaTuCoDoDaik(s, k);
 
 
+	cout<<"Thunao";
     delete[] s;
 	return 0;
 }
